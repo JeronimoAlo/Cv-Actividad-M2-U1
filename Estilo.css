@@ -1,0 +1,32 @@
+body {
+  background: linear-gradient(to right, #f87357, #f74018);
+}
+
+.BordesRedondos {
+  border: 10px solid black;
+  border-radius: 15px;
+  width: fit-content;
+}
+
+.Centrados {
+  font-family: 'Zen Loop', cursive;
+  text-align: center;
+  font-size: 40px;
+}
+
+.Sombras {
+  box-shadow: 0px 15px 15px yellow;
+}
+
+a:hover {
+  color: red;
+}
+
+a {
+  color: blue;
+}
+
+#Encabezados {
+  font-style: italic;
+  font-weight: bold;
+}
